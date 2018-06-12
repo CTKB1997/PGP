@@ -1,0 +1,43 @@
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.exe
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe.config
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.exe
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.pdb
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.pdb
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\BouncyCastle.Crypto.dll
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.dll
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.dll
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.xml
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.xml
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\C# projects\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.csprojResolveAssemblyReference.cache
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe.config
+E:\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.exe
+E:\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.pdb
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.pdb
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.dll
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.dll
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.dll
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.xml
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.xml
+E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.xml
+E:\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.csprojResolveAssemblyReference.cache

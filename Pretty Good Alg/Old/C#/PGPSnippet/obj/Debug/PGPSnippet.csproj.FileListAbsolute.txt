@@ -1,0 +1,16 @@
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\bin\Debug\PGPSnippet.exe.config
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\bin\Debug\PGPSnippet.exe
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\bin\Debug\PGPSnippet.pdb
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\obj\Debug\PGPSnippet.csprojResolveAssemblyReference.cache
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\obj\Debug\PGPSnippet.exe
+c:\users\mpallama\documents\visual studio 2013\Projects\PGPSnippet\PGPSnippet\obj\Debug\PGPSnippet.pdb
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\bin\Debug\PGPSnippet.exe.config
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\obj\Debug\PGPSnippet.exe
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\obj\Debug\PGPSnippet.pdb
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\bin\Debug\PGPSnippet.exe
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\bin\Debug\PGPSnippet.pdb
+C:\Users\Thanh\Desktop\Pretty Good Alg\Old\C#\PGPSnippet\obj\Debug\PGPSnippet.csprojResolveAssemblyReference.cache
+E:\Pretty Good Alg\Old\C#\PGPSnippet\bin\Debug\PGPSnippet.exe.config
+E:\Pretty Good Alg\Old\C#\PGPSnippet\obj\Debug\PGPSnippet.exe
+E:\Pretty Good Alg\Old\C#\PGPSnippet\obj\Debug\PGPSnippet.pdb

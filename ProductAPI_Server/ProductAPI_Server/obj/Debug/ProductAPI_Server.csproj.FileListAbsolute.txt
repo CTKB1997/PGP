@@ -1,0 +1,310 @@
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\ApplicationInsights.config
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\csc.exe
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\vbc.exe
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll.config
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Owin.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\WebGrease.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.xml
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.dll
+c:\users\thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csproj.GenerateResource.Cache
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial1.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Thanh\documents\visual studio 2015\Projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial2.resources
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\ApplicationInsights.config
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\csc.exe
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Collections.Immutable.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\vbc.exe
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe.config
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll.config
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.pdb
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\BouncyCastle.Crypto.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Web.Infrastructure.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Owin.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\WebGrease.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.pdb
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.pdb
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.xml
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csprojResolveAssemblyReference.cache
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial.resources
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial1.resources
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial2.resources
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csproj.GenerateResource.Cache
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.dll
+D:\C# projects\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\ApplicationInsights.config
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\csc.exe
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Collections.Immutable.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\vbc.exe
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe
+E:\ProductAPI_Server\ProductAPI_Server\bin\roslyn\VBCSCompiler.exe.config
+E:\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll.config
+E:\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\ProductAPI_Server.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Web.Infrastructure.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\Owin.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\WebGrease.dll
+E:\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\EntityFramework.SqlServer.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.DependencyCollector.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.Web.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AI.WindowsServer.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.ApplicationInsights.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Logging.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.IdentityModel.Tokens.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Newtonsoft.Json.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Net.Http.Formatting.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Helpers.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.WebHost.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Mvc.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Optimization.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Razor.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Deployment.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.WebPages.Razor.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Antlr3.Runtime.pdb
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Google.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ProductAPI_Server\ProductAPI_Server\bin\System.Web.Http.Owin.xml
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csprojResolveAssemblyReference.cache
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial.resources
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial1.resources
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.Migrations.Initial2.resources
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.csproj.GenerateResource.Cache
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.dll
+E:\ProductAPI_Server\ProductAPI_Server\obj\Debug\ProductAPI_Server.pdb
