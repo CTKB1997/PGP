@@ -41,3 +41,6 @@ E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\EntityFramework.SqlServer.xml
 E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\Newtonsoft.Json.xml
 E:\ProductAPI_Client\ProductAPI_Client\bin\Debug\System.Net.Http.Formatting.xml
 E:\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.csprojResolveAssemblyReference.cache
+E:\PGP\ProductAPI_Client\ProductAPI_Client\bin\Debug\ProductAPI_Client.exe.config
+E:\PGP\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.exe
+E:\PGP\ProductAPI_Client\ProductAPI_Client\obj\Debug\ProductAPI_Client.pdb

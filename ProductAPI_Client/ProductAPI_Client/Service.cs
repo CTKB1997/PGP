@@ -1,18 +1,16 @@
-﻿using Org.BouncyCastle.Bcpg.OpenPgp;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
-using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using Newtonsoft.Json;
 using ProductAPI_Client.Key;
-using System.Globalization;
-using System.Runtime.Serialization.Formatters.Binary;
-
+/// <summary>
+/// Login: aaa - 123
+/// Login: abc - 123
+/// </summary>
 namespace ProductAPI_Client
 {
     public class Service
