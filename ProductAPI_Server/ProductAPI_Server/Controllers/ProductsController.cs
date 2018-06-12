@@ -16,7 +16,7 @@ using System.Reflection;
 namespace ProductAPI_Server.Controllers
 {
     [RoutePrefix("api/products")]
-    [Authorize]
+    //[Authorize]
     public class ProductsController : ApiController
     {
         private ProductServiceContext db = new ProductServiceContext();

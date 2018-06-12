@@ -31,7 +31,7 @@ namespace ProductAPI_Server.Controllers
 
         // GET: api/TKs/5
         [ResponseType(typeof(TK))]
-        [Authorize]
+        //[Authorize]
         public async Task<IHttpActionResult> GetTK(string id)
         {
             TK tK = await db.TKs.FindAsync(id);
